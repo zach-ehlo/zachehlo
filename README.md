@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zachehlo
+- 👋 Hi, I’m Zach
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python & javascript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ehlozach@gmail.com
 - 😄 Pronouns: he/him
